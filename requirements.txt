@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.36.0
+langchain==0.2.3
+langgraph==0.0.57
+openai==1.40.0
+chromadb==0.5.3
+pandas==2.2.2
+numpy==1.26.4

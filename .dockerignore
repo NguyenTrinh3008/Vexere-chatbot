@@ -1,0 +1,19 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.env.*
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+node_modules
+
+# Local data we will mount via volumes instead
+src/data/chroma_db/
+src/data/*.db
+src/data/*.sqlite*

@@ -1,4 +1,4 @@
-# Verxere Chatbot – Setup & Run Guide
+# Vexere Chatbot – Setup & Run Guide
 
 ## 1) Yêu cầu
 - Python 3.11+
